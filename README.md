@@ -1,0 +1,2 @@
+# school-management
+Designed and implemented web  and desktop application for school management include student registration,  student can see their  Schedule and their test result , also print received (registration or payment) and organize each class will be teaches which lesson and by hom. all this had been done by using c#  and asp.net, html5 , css3, bootstrap , SQLServer for database and for UI in desktop  using metro framework .
